@@ -1,0 +1,34 @@
+.con {
+    max-width: 84%;
+    width: 80ch;
+    padding: 2ch;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+  
+    box-shadow: 0 0 50px #4c1c57;
+  }
+  
+  .post-header {
+
+    font-size: 3rem;
+    font-family: Helvetica;
+  }
+  
+  .post-content {
+    margin-bottom: 2ch;
+    font-size: 1.2rem;
+    font-style: sans-serif;
+  }
+  
+  .image-content {
+    width: 100%;
+    max-width: 100%;
+    heigth: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 6px;
+  }
+  
